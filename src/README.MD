@@ -1,0 +1,27 @@
+
+IN MY ART & CRAFT WEBSITE PROJECT :
+
+1.WEBSITE NAME CRAFTY
+2.FULL NAME OF CRFITY DEVELOPMENT LIMITED HAS TITLE
+3.MY WEBSITE IS Painting and Drawing CATEGORIE
+4.HERE I AM USING DAISY UI ALSO TAILWIND CSS
+5.HERE I AM ADD A BLOG FEATURE
+
+
+
+IN WEBSITE WHICH NPM PACKAGE I AM USING HERE THIS NAME
+1. React-simple-typewriter
+2. React Awesome reveal
+3. dark/light theme toggle
+
+
+live link
+
+https://662173ae64af1e171c8dca46--frabjous-paletas-ea72b6.netlify.app/
+
+
+
+
+
+
+
